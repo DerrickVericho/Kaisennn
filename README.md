@@ -1,5 +1,5 @@
-- 👋 Hello, I’m @Kaisennn
-- 👀 I’m interested in Data Science
+- 👋 Hello, everyone call me Derrick.
+- 👀 I’m interested in Data Science and Finance industry
 - 🌱 I’m currently learning some programming languages such as Python, R and SQL
 
 
