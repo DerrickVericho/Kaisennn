@@ -1,6 +1,6 @@
 - 👋 Hello, everyone call me Derrick.
-- 👀 I’m interested in Data Science and Finance industry
-- 🌱 I’m currently learning some programming languages such as Python, R and SQL
+- 👀 AI are my Future eyes
+- 🌱 Growing on Crypto Industry
 
 
 <!---
